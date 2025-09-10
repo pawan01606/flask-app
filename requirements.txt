@@ -4,3 +4,4 @@ Jinja2==3.1.2
 Werkzeug==2.3.7
 itsdangerous==2.1.2
 click==8.2.0
+Flask-SQLAlchemy==3.0.5

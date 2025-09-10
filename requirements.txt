@@ -5,3 +5,4 @@ Werkzeug==2.3.7
 itsdangerous==2.1.2
 click==8.2.0
 Flask-SQLAlchemy==3.0.5
+psycopg2-binary==2.9.9   # Required if using PostgreSQL
